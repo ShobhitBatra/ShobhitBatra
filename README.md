@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShobhitBatra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Mindset
+![](https://quotes-github-readme.vercel.app/api?quote=This%20job%20is%20not%20about%20knowing%20everything.%20That%20will%20never%20happen.%20It%20is%20about%20being%20willing%20to%20learn%20what%20you%20do%20not%20know%20yet.&type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShobhitBatra&limit=5&theme=dark&combine_all_yearly_contributions=true)
